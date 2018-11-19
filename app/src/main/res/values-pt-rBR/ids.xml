@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_applications" type="id" />
+    <item name="nav_newapplication" type="id" />
+    <item name="nav_patrimony" type="id" />
+    <item name="nav_options" type="id" />
+    <item name="nav_globals" type="id" />
+</resources>

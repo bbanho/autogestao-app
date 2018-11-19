@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Autogestão</string>
+    <string name="permission_rationale">Completar automaticamente requer permissões de acesso. Aceitar?</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_email">Email</string>
+    <string name="title_activity_login">Entrar</string>
+    <string name="action_sign_in">Entrar ou Registrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">E-mail inválido</string>
+    <string name="error_invalid_password">Senha muito curta!</string>
+    <string name="error_incorrect_password">Senha incorreta!</string>
+    <string name="error_field_required">Campo obrigatório.</string>
+    <string name="title_activity_painel">Painel</string>
+    <string name="nav_header_subtitle">caasoaloja@gmail.com</string>
+    <string name="nav_header_title">Usuário</string>
+    <string name="navigation_drawer_open">Abrir painel de navegação</string>
+    <string name="navigation_drawer_close">Fechar painel de navegação</string>
+    <string name="nav_newapplication">Novo Requerimento</string>
+    <string name="nav_applications">Requerimentos</string>
+    <string name="nav_patrimony">Patrimônio</string>
+    <string name="nav_globals">Admin</string>
+    <string name="nav_header_desc" />
+    <string name="title_activity_scrolling">Requerimento</string>
+    <string name="action_settings">Opções</string>
+    <string name="nav_options">Opções</string>
+    <string name="action_sign_up" />
+</resources>
